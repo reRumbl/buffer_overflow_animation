@@ -94,7 +94,3 @@ buffer_overflow_animation/
 ## Лицензия
 
 MIT License — свободное использование в образовательных целях.
-
-## Автор
-
-**Igor Balashov** — igor2233balashov@gmail.com
