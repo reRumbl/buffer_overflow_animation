@@ -77,7 +77,7 @@ buffer_overflow_animation/
 
 ## Требования
 
-- Python 3.12+
+- Python 3.12+ 
 - [Manim](https://www.manim.community/) 0.22.x
 - FFmpeg (для рендеринга видео)
 - LaTeX (опционально, для формул)
